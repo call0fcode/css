@@ -93,6 +93,7 @@ video {
 }
 
 img {
+  display: block;
   border-style: none;
 }
 
